@@ -11,4 +11,4 @@ pip install bs4
 git pull
 git clone https://github.com/foxdev88/FOXDEV88X
 cd FOXDEV88X
-python FOXDEV88X.py
+python update.py
